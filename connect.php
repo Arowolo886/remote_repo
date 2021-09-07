@@ -8,7 +8,7 @@
   if($connect){
     echo "Connection Successfull";
   } else{
-      echo "Connection Failed";
+      echo "Connection Failed".mysqli_error($connect);
   }
 
 ?>
