@@ -1,7 +1,7 @@
 <?php
 	include 'connect.php';
 
-	if( isset($_POST) ){
+	if( isset($_POST['reg']) ){
 
 		extract($_POST);
 	/*
