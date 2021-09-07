@@ -31,7 +31,7 @@
           <div class="form-group">
             <button name="reg">Register </button>
           </div>
-      <form>
+      </form>
         
    </div>
     
